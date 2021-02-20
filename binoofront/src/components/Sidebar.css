@@ -1,0 +1,18 @@
+.sidebarContainer {
+	background: #15171c;
+	width: 200px;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.wrapper a:hover {
+	text-decoration: none;
+	color: yellow;
+	border-left: 4px solid yellow;
+}
